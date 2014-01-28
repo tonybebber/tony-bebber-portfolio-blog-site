@@ -10,7 +10,7 @@
     </div>
     </div>
     <div id="footerDisc">
-        <p>&copy; 2012 | Tony Bebber | All Rights Reserved</p>
+        <p>&copy; 2014 | Tony Bebber | All Rights Reserved</p>
     </div>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/highlight.js/highlight.pack.js"></script>

@@ -43,8 +43,6 @@
                     <li>/</li>
                     <li class="projects"><a href="http://tonybebber.com/category/projects/">Projects</a></li>
                     <li>/</li>
-                    <li class="github-repos"><a href="http://tonybebber.com/github-repos/">GitHub Repos</a></li>
-                    <li>/</li>
                     <li class="resume"><a href="http://tonybebber.com/resume/">Resume</a></li>
                     <li class="lastSlash">/</li>
                     <li class="searchButton">Search</li>
